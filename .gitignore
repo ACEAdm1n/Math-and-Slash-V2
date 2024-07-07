@@ -1,0 +1,11 @@
+# Ignore build directory
+/build
+# Ignore Unity generated files
+Temp/
+Library/
+Logs/
+obj/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
